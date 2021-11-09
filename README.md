@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zsalimov
-- 👀 I’m interested in ...Web development
-- 🌱 I’m currently learning ...React
+- 👀 I’m interested in ...Web development, Android development
+- 🌱 I’m currently learning ...React, Android 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
